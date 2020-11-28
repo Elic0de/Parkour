@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vexsoftware:nuvotifier:2.5.3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vexsoftware/nuvotifier/2.5.3/nuvotifier-2.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vexsoftware/nuvotifier/2.5.3/nuvotifier-2.5.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vexsoftware/nuvotifier/2.5.3/nuvotifier-2.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

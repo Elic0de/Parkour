@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LunaChat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/LunaChat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
