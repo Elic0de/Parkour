@@ -21,12 +21,12 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Karma-2.2.6" level="project" />
     <orderEntry type="library" name="n" level="project" />
+    <orderEntry type="library" name="Karma-2.2.6" level="project" />
     <orderEntry type="library" name="google-collections-1.0" level="project" />
     <orderEntry type="library" name="LunaChat" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="craftbukkit-1.12.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.spigotmc:spigot-api:1.12.2-R0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="craftbukkit-1.12.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: commons-lang:commons-lang:2.6" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: junit:junit:4.10" level="project" />
