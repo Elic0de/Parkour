@@ -46,7 +46,7 @@ public class UserQuitListener implements PlayerQuitListener {
 
 		user.save();
 
-		DatabaseManager.get().executeStatement(SQLQuery.UPDATE_PLAYER_DATA,player.getName(),user.updateRank(),user.extendRank(),user.rankedrank(), user.getId());
+		//DatabaseManager.get().executeStatement(SQLQuery.UPDATE_PLAYER_DATA,player.getName(),user.updateRank(),user.extendRank(),user.rankedrank(), user.getId());
 		//DatabaseUtils.updatePlayerData(user);
 
 		event.setQuitMessage("");
