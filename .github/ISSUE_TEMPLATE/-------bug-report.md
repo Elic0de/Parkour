@@ -1,6 +1,6 @@
 ---
 name: バグ報告 / Bug Report
-about: 既存のWebサイトに不具合がある場合・更新しなければならないタスクなどはこちら If this doesn’t look right,
+about: 既存のプラグインに不具合がある場合・更新しなければならないタスクなどはこちら If this doesn’t look right,
 title: ''
 labels: bug
 assignees: ''
