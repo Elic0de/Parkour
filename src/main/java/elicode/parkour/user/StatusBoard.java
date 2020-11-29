@@ -71,7 +71,7 @@ public class StatusBoard {
 /*//				String spaces = "";
 //				for(int i = 0; i < halfMaxLength; i++) spaces += " ";*/
 
-				return Text.stream("&e-hatosaba.f1.si").color().toString();
+				return Text.stream("&e-hatosaba.f5.si").color().toString();
 			})
 		);
 	}
