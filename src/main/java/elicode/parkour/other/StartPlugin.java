@@ -5,7 +5,6 @@ import elicode.parkour.mysql.Database;
 import elicode.parkour.mysql.sqlite.SQLite;
 import elicode.parkour.util.databases.DatabaseType;
 import elicode.parkour.util.databases.DatabaseUtils;
-import elicode.parkour.util.databases.FriendDatabase;
 import elicode.parkour.util.Utils;
 import org.bukkit.configuration.file.FileConfiguration;
 

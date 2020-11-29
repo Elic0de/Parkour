@@ -209,11 +209,6 @@ public class UserJoinListener implements PlayerJoinListener {
 		return true;
 	}
 
-	public boolean doesExist(Player player) {
-		return Main.getPlugin().getFriendDatabaseManager().getPlayerId(player) == 0;
-	}
-
-
 	public void disableCollision(Player player){
 		//新しくパケットを作成する
 		Object packet = newInstance(newPacketPlayOutScoreboardTeam);
@@ -223,7 +218,6 @@ public class UserJoinListener implements PlayerJoinListener {
 
 		//衝突はしない設定にする
 		setFieldValue(collisionRule, packet, "never");
-
 
 		//チームに参加するアクションとする
 		setFieldValue(teamAction, packet, 0);

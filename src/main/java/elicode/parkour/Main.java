@@ -18,7 +18,6 @@ import elicode.parkour.command.parkour.*;
 import elicode.parkour.command.party.PartyCommand;
 import elicode.parkour.config.Config;
 import elicode.parkour.config.Lang;
-import elicode.parkour.function.parkour.HideModeToggler;
 import elicode.parkour.game.GameManager;
 import elicode.parkour.game.duel.RequestManager;
 import elicode.parkour.game.queue.QueueManager;
@@ -30,11 +29,9 @@ import elicode.parkour.maneger.LogManager;
 import elicode.parkour.mysql.Database;
 import elicode.parkour.other.StartPlugin;
 import elicode.parkour.party.PartyManager;
-import elicode.parkour.user.User;
 import elicode.parkour.util.Loadable;
 import elicode.parkour.util.Utils;
 import elicode.parkour.util.databases.DatabaseManager;
-import elicode.parkour.util.databases.FriendDatabase;
 import org.apache.commons.io.Charsets;
 import org.apache.commons.io.FileUtils;
 import org.bukkit.Bukkit;
@@ -66,8 +63,6 @@ public class Main extends Plugin {
 	private QueueManager queueManager;
 	private PartyManager partyManager;
 	private Database database;
-	private Database friendDatabase;
-	private FriendDatabase friendDatabaseManager;
 	private RequestManager requestManager;
 	private LunaChatAPI lunachatapi;
 	private KarmaPlugin karmaPlugin;
@@ -236,8 +231,6 @@ public class Main extends Plugin {
 		return requestManager;
 	}
 
-	public Database getFriendDatabase() {return friendDatabase;}
-
 	public LunaChatAPI getLunachatapi() {
 		return lunachatapi;
 	}
@@ -250,20 +243,8 @@ public class Main extends Plugin {
 		return level;
 	}
 
-	public void setFriendDatabase(Database friendDatabase) {
-		this.friendDatabase = friendDatabase;
-	}
-
 	public Database getDatabase() {
 		return database;
-	}
-
-	public FriendDatabase getFriendDatabaseManager() {
-		return friendDatabaseManager;
-	}
-
-	public void setFriendDatabaseManager(FriendDatabase friendDatabaseManager) {
-		this.friendDatabaseManager = friendDatabaseManager;
 	}
 
 	public Config getConfiguration() {
