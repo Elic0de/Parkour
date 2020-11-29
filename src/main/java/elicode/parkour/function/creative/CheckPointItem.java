@@ -1,6 +1,6 @@
 package elicode.parkour.function.creative;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.function.parkour.ClickType;
 import elicode.parkour.function.parkour.FunctionalItem;
 import elicode.parkour.util.Optional;

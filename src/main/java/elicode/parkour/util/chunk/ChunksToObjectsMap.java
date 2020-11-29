@@ -11,7 +11,7 @@ import java.util.Map;
 
 import org.bukkit.Chunk;
 
-import elicode.beta.parkour.location.Location;
+import elicode.location.Location;
 
 public class ChunksToObjectsMap<V> {
 

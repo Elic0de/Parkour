@@ -1,6 +1,6 @@
 package elicode.parkour.parkour;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.region.LocationOnBorderCollector;
 import elicode.parkour.region.Region;
 import elicode.parkour.region.selection.RegionSelection;

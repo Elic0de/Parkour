@@ -1,6 +1,6 @@
 package elicode.parkour.command.commands.parkours.subcommands;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.Main;
 import elicode.parkour.command.BaseCommand;
 import elicode.parkour.parkour.Parkour;

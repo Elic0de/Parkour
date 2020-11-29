@@ -6,7 +6,7 @@ import java.util.function.Function;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.inventory.ui.dsl.component.InventoryLayout;
 import elicode.parkour.parkour.Parkour;
 import elicode.parkour.util.text.BilingualText;

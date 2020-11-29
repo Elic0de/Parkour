@@ -6,10 +6,11 @@ import java.util.function.BiFunction;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+import elicode.location.ImmutableLocation;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+
 import elicode.parkour.inventory.ui.dsl.component.InventoryLayout;
 import elicode.parkour.parkour.Parkour;
 import elicode.parkour.parkour.ParkourCategory;

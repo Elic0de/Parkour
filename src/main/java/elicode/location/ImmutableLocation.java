@@ -1,4 +1,4 @@
-package elicode.beta.parkour.location;
+package elicode.location;
 
 import org.bukkit.World;
 

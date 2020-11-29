@@ -13,7 +13,7 @@ import org.bukkit.event.block.Action;
 import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.event.player.PlayerSwapHandItemsEvent;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.parkour.Parkour;
 import elicode.parkour.util.text.BilingualText;
 import elicode.parkour.parkour.ParkourRegion;

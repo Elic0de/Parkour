@@ -19,7 +19,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.util.Consumer;
 
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.region.Region;
 import elicode.parkour.user.User;
 import elicode.parkour.util.Color;

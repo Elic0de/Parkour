@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 import org.bukkit.Location;
 import org.bukkit.configuration.ConfigurationSection;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.parkour.Parkour;
 import elicode.parkour.parkour.ParkourSet;
 import elicode.parkour.util.tuplet.Tuple;

@@ -14,7 +14,7 @@ import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.region.selection.RegionSelectionSet;
 import elicode.parkour.util.text.Text;
 import elicode.parkour.util.text.TextStream;

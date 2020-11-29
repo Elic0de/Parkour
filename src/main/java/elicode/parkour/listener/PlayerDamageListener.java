@@ -1,6 +1,6 @@
 package elicode.parkour.listener;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.parkour.Parkour;
 import elicode.parkour.user.CheckpointSet;
 import elicode.parkour.user.User;

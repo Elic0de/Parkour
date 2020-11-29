@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 
 import org.bukkit.configuration.ConfigurationSection;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.region.Region;
 import elicode.parkour.util.tuplet.Tuple;
 import elicode.parkour.util.yaml.Yaml;

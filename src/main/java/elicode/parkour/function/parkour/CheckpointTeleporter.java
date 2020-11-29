@@ -8,7 +8,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.util.enchantment.GleamEnchantment;
 import elicode.parkour.parkour.Parkour;
 import elicode.parkour.util.text.BilingualText;

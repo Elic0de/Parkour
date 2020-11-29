@@ -15,7 +15,7 @@ import elicode.parkour.util.databases.SQLQuery;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.function.parkour.ControlFunctionalItem;
 import elicode.parkour.function.parkour.ItemType;
 import elicode.parkour.parkour.Parkour;

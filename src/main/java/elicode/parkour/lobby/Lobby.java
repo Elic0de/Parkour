@@ -1,6 +1,6 @@
 package elicode.parkour.lobby;
 
-import elicode.beta.parkour.location.ImmutableLocation;
+import elicode.location.ImmutableLocation;
 import elicode.parkour.util.yaml.Yaml;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;

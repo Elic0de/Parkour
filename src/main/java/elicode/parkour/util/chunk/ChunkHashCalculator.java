@@ -5,7 +5,7 @@ import java.util.List;
 
 import org.bukkit.Chunk;
 
-import elicode.beta.parkour.location.Location;
+import elicode.location.Location;
 
 public class ChunkHashCalculator {
 

@@ -2,9 +2,9 @@ package elicode.parkour.region.selection;
 
 import org.bukkit.World;
 
-import elicode.beta.parkour.location.ImmutableLocation;
-import elicode.beta.parkour.location.Location;
-import elicode.beta.parkour.location.MutableLocation;
+import elicode.location.ImmutableLocation;
+import elicode.location.Location;
+import elicode.location.MutableLocation;
 import elicode.parkour.region.Region;
 import elicode.parkour.util.text.Text;
 

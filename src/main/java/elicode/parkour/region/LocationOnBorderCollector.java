@@ -5,8 +5,8 @@ import java.util.List;
 
 import org.bukkit.World;
 
-import elicode.beta.parkour.location.ImmutableLocation;
-import elicode.beta.parkour.location.Location;
+import elicode.location.ImmutableLocation;
+import elicode.location.Location;
 
 public class LocationOnBorderCollector {
 

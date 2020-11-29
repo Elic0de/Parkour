@@ -3,8 +3,8 @@ package elicode.parkour.region;
 import org.bukkit.Bukkit;
 import org.bukkit.World;
 
-import elicode.beta.parkour.location.ImmutableLocation;
-import elicode.beta.parkour.location.Location;
+import elicode.location.ImmutableLocation;
+import elicode.location.Location;
 import elicode.parkour.util.text.Text;
 
 public class Region {
